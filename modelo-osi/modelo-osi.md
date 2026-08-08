@@ -145,21 +145,3 @@ Aplicação
 | 1 - Física       | Cabo, fibra, Wi-Fi, Hub     |
 
 ---
-
-## Como memorizar
-
-Uma forma simples é decorar de baixo para cima:
-
-| Camada | Palavra-chave    |
-|--------|-------------------|
-| 1      | Cabos             |
-| 2      | MAC               |
-| 3      | IP                |
-| 4      | TCP/UDP           |
-| 5      | Sessão            |
-| 6      | Criptografia      |
-| 7      | Aplicação         |
-
-**Frase mnemônica útil:**
-
-> "Cabos → MAC → IP → TCP → Sessão → Criptografia → Aplicação"
